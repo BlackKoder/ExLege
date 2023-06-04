@@ -1500,6 +1500,10 @@ header .logo {
     .grid .item {
         width: calc(50% - 20px);
     }
+    .home .home-img img{
+        display: flex;
+        flex-direction: column;
+    }
 
 }
 
